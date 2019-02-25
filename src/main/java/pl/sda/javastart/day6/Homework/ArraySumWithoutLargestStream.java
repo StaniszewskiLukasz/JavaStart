@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.NoSuchElementException;
 
 public class ArraySumWithoutLargestStream {
-       public static void main(String[] args) {
+       public static void Main(String[] args) {
             System.out.print("To jest suma bez maksa: ");
             System.out.print(SumReturn(new int[]{1, 2, 3, 8, 6, 5, 4, 15}));
         }

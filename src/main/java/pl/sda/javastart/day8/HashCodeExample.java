@@ -11,11 +11,11 @@ public class HashCodeExample {  // uruchamiamy klasy Random i Constant, sprawdza
             ConstantHashCode const3 = new ConstantHashCode("6");
             ConstantHashCode const4 = new ConstantHashCode("6");
             ConstantHashCode const5 = new ConstantHashCode("6");
-            RandomHasCode rand1 = new RandomHasCode("7"); // tutaj trafiają do innych indexów i namnarza te same wartości pod różnymi indexami
-            RandomHasCode rand2 = new RandomHasCode("7"); //tutaj ponieważ wartośc jest zawsze ta sama to powinien wyjść zawsze ten sam hashCode i powinien każdy obiekt wrzucać do tego samego indexu, ale ponieważ zmieniliśmy specjalnie hashCode na zmienny to każda tożsama wartość trafia do innego indexu co nie powinno mieć miejsca
-            RandomHasCode rand3 = new RandomHasCode("7");
-            RandomHasCode rand4 = new RandomHasCode("7");
-            RandomHasCode rand5 = new RandomHasCode("7");
+            RandomHashCode rand1 = new RandomHashCode("7"); // tutaj trafiają do innych indexów i namnarza te same wartości pod różnymi indexami
+            RandomHashCode rand2 = new RandomHashCode("7"); //tutaj ponieważ wartośc jest zawsze ta sama to powinien wyjść zawsze ten sam hashCode i powinien każdy obiekt wrzucać do tego samego indexu, ale ponieważ zmieniliśmy specjalnie hashCode na zmienny to każda tożsama wartość trafia do innego indexu co nie powinno mieć miejsca
+            RandomHashCode rand3 = new RandomHashCode("7");
+            RandomHashCode rand4 = new RandomHashCode("7");
+            RandomHashCode rand5 = new RandomHashCode("7");
 
 //            System.out.println("Rozmiar Const");
             Set<ConstantHashCode> constantHashCodeSet = new HashSet<>(); // tworzymy hashSeta
@@ -27,14 +27,14 @@ public class HashCodeExample {  // uruchamiamy klasy Random i Constant, sprawdza
             System.out.println(constantHashCodeSet.size());
 
 //            System.out.println("Rozmiar Random");
-            Set<RandomHasCode> randomHasCodes = new HashSet<>(); // shift + F6 nadajemy inną nazwe wielu na raz
-            randomHasCodes.add(rand1);
-            randomHasCodes.add(rand2);
-            randomHasCodes.add(rand3);
-            randomHasCodes.add(rand4);
-            randomHasCodes.add(rand5);
-            System.out.println(randomHasCodes.size());
-            System.out.println(randomHasCodes.contains(rand1)); //
+            Set<RandomHashCode> randomHashCodes = new HashSet<>(); // shift + F6 nadajemy inną nazwe wielu na raz
+            randomHashCodes.add(rand1);
+            randomHashCodes.add(rand2);
+            randomHashCodes.add(rand3);
+            randomHashCodes.add(rand4);
+            randomHashCodes.add(rand5);
+            System.out.println(randomHashCodes.size());
+            System.out.println(randomHashCodes.contains(rand1)); //
         }
     }
 }
