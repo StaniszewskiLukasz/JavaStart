@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b354406c-a128-4966-bc75-303db8984b11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/CartProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/MainShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Array3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Functional1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Functional2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Logic1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Logic2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Map1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Map2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/String1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/String2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/String3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/WarmUp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/WarmUp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/BigIntegerBigDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/Inkrementacja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/Kalkulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/MinMaxValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/FirstValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/StarsPainting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/Tables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/homework/ChristmasTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/CustomList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/CustomSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/MathAbstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Pies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Ptak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/StackExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/StackExampleTrainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/StringMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/TablesExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Zwierze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/ChangeNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/EachSecondCharBig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/Animals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/Feed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/MainAnimals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/OOP4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day13/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Hamster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Homework/WheelAndCross.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Introduction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/MyCurrencyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/PolishTaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/TaxApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Totolotek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/ZooApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day2/ForsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day2/IfsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day2/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/ArraysExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/ForsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Conversation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/FiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/FourParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Grades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/SecondTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/ThreeLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/HomeworkReverseOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/WhileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/CarOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/ForsExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/ArraySumWithoutLargestExercise37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/ChristmasTreeExercise25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/DoWhileCalculatorExercise19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/GreaterThanZeroExercise31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/IndiscretNumbersExercise17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/InterconnectedArraysExercise26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/LeftHalfChristmasTreeExercise14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/LessThanZeroExercise32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/MultiplicationTableExercise35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RailwayExercise24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RectangleExercise38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RecursionExercise18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RightHalfChristmasTreeExercise15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/SortArrayOutExercise27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/SwitchWelcomeExercise20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/TableWithNewIntExercise28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/ThePowerOfExercise13and36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/TrainExercise21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/TwoNumbersAndSumExercise30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/VanExercise23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/WhetherEvenExercise29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/OOP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/RandomExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/CalculatorUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/ExperimentalObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/OOP2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/StreamsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/TestPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/FlatInfoHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Mammal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/OopHomework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/OwnerHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/ArraySumWithoutLargestStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/OopHomework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/NameHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/OOP3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Pensioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/CollectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/ColorEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/ColourEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/ExceptionsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/MyCheckedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/MyRuntimeExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/OOP4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/ConstantHashCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/CustomersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/FileOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/FruitBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/GenericFruitBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/GenericsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/HashCodeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/MyCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/MyCustomerMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/MyFileOperationsSecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/WordsCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/RandomHashCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/spojExercise/Jpesel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/streamsExamples/JavaStreams.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JVM/src/AddTwoIntegers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JVM/src/Calculaor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JVM/src/Digit.java" />
+        <option value="$PROJECT_DIR$/JVM/src/AddTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/JVM/src/Calculaor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="712" />
+    <option name="width" value="643" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551114753256" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculaor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculaor" />
+      <module name="JVM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculaor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b354406c-a128-4966-bc75-303db8984b11" name="Default Changelist" comment="" />
+      <created>1550997484594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550997484594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JVM/src/Digit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/AddTwoIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JVM/src/Calculaor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

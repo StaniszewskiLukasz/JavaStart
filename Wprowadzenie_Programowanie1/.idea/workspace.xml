@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3548429-bfec-4346-bdbb-092a2f3cd987" name="Default Changelist" comment="LogicExamples">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/CartProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/MainShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/InternetShop/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Array3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Functional1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Functional2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Logic1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Logic2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Map1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/Map2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/String1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/String2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/String3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/WarmUp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/codingBatExercise/WarmUp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/BigIntegerBigDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/Inkrementacja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/Kalkulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day1/MinMaxValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/FirstValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/StarsPainting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/Tables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day10/homework/ChristmasTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/CustomList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/CustomSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/MathAbstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Pies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Ptak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/StackExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/StackExampleTrainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/StringMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/TablesExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day11/Zwierze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/ChangeNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/EachSecondCharBig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/Animals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/Feed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/MainAnimals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Homework/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/OOP4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day12/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day13/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Hamster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Homework/WheelAndCross.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Introduction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/MyCurrencyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/PolishTaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/TaxApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/Totolotek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day15/ZooApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day2/ForsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day2/IfsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day2/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/ArraysExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/ForsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Conversation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/FiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/FourParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Grades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/SecondTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/Homework/ThreeLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/HomeworkReverseOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day3/WhileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/CarOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/ForsExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/ArraySumWithoutLargestExercise37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/ChristmasTreeExercise25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/DoWhileCalculatorExercise19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/GreaterThanZeroExercise31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/IndiscretNumbersExercise17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/InterconnectedArraysExercise26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/LeftHalfChristmasTreeExercise14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/LessThanZeroExercise32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/MultiplicationTableExercise35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RailwayExercise24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RectangleExercise38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RecursionExercise18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/RightHalfChristmasTreeExercise15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/SortArrayOutExercise27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/SwitchWelcomeExercise20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/TableWithNewIntExercise28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/ThePowerOfExercise13and36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/TrainExercise21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/TwoNumbersAndSumExercise30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/VanExercise23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/Homework/WhetherEvenExercise29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/OOP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day4/RandomExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/CalculatorUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/ExperimentalObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/OOP2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/StreamsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day5/TestPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/FlatInfoHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Mammal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/OopHomework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/OwnerHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Animals/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/ArraySumWithoutLargestStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/OopHomework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Homework/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/NameHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/OOP3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Pensioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day6/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/CollectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/ColorEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/ColourEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/ExceptionsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/MyCheckedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/MyRuntimeExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day7/OOP4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/ConstantHashCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/CustomersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/FileOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/FruitBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/GenericFruitBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/GenericsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/HashCodeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/MyCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/MyCustomerMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/MyFileOperationsSecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Homework/WordsCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/day8/RandomHashCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/spojExercise/Jpesel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pl/sda/javastart/streamsExamples/JavaStreams.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/javastart$String2.ic" NAME="String2 Coverage Results" MODIFIED="1546134926121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.sda.javastart.OwnExercise.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javastart" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projekty.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ForsExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day3/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/codingBatExercise/Array2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding>
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Hamster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Introduction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="107" selection-start-line="25" selection-start-column="107" selection-end-line="25" selection-end-column="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/ChangeNames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/EachSecondCharBig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/streamsExamples/JavaStreams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/Feed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/OOP4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day4/Homework/DoWhileCalculatorExercise19.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day13/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/Animals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/MainAnimals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day14/OptionalExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/DawidSolution/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/DawidSolution/Food.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/DawidSolution/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/DawidSolution/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/DawidSolution/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/CartProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyCartProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/MainShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/CartService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyCartService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyMainShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/CurrencyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/MyCurrencyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/PolishTaxCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/TaxCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/TaxApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/InitiateAnimals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Hamster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/ZooApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Totolotek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Homework/WheelAndCross.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day3/Fibonacci.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="javastart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="javastart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="712" />
+    <option name="width" value="643" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wprowadzenie_Programowanie1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wprowadzenie_Programowanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wprowadzenie_Programowanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wprowadzenie_Programowanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551115420726" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="D:/JVM" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WheelAndCross">
+    <configuration name="MainShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.InternetShop.MainShop" />
+      <module name="Projekty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javastart.InternetShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCurrencyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day15.MyCurrencyCalculator" />
+      <module name="Projekty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javastart.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMainShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.MyInternetShop.MyMainShop" />
+      <module name="Projekty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javastart.MyInternetShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WheelAndCross" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day15.Homework.WheelAndCross" />
+      <module name="Projekty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javastart.day15.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day15.ZooApp" />
+      <module name="Projekty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javastart.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WheelAndCross" />
+        <item itemvalue="Application.ZooApp" />
+        <item itemvalue="Application.MyCurrencyCalculator" />
+        <item itemvalue="Application.MyMainShop" />
+        <item itemvalue="Application.MainShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3548429-bfec-4346-bdbb-092a2f3cd987" name="Default Changelist" comment="" />
+      <created>1544259814045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544259814045</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ArraysExamples">
+      <created>1547497143345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547497143345</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LogicExamples">
+      <created>1547497525526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547497525526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LogicExamples">
+      <created>1547901965784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547901965784</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JavaStart">
+      <created>1548502403876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548502403877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49462366" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.20953101" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50537634" side_tool="true" weight="0.2730711" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.627551" />
+      <window_info anchor="bottom" x="21" y="231" width="1322" height="205" id="Run" order="2" sideWeight="0.49621785" weight="0.3707483" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.33673468" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3282313" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282313" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50378215" side_tool="true" weight="0.20918368" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3282313" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49462366" visible="true" weight="0.19742814" />
+      <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.20953101" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50537634" side_tool="true" weight="0.2730711" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.627551" />
+      <window_info anchor="bottom" x="21" y="231" width="1322" height="205" id="Run" order="2" sideWeight="0.49621785" weight="0.3707483" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.33673468" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3282313" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282313" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50378215" side_tool="true" weight="0.20918368" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3282313" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ArraysExamples" />
+    <MESSAGE value="LogicExamples" />
+    <MESSAGE value="JavaStart" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaStart" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day1/Inkrementacja.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework/Date.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/codingBatExercise/WarmUp1.java</url>
+          <line>286</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/codingBatExercise/String3.java</url>
+          <line>295</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/UserService.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/streamsExamples/JavaStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="74" column="32" lean-forward="true" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="60" column="63" lean-forward="true" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#1654#1655#0" expanded="true" />
+            <element signature="e#1726#1727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day5/StreamsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1599#1600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/Homework/MainAnimals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="105" column="5" lean-forward="true" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day13/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day4/Homework/DoWhileCalculatorExercise19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/OOP4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1338#1339#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyMainShop.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyCartProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyProductService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyCartService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyUserService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MyInternetShop/MyCart.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/TaxCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/MyCurrencyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/TaxApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/InitiateAnimals.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day14/OptionalExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day12/AnimalGrupowy/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day11/CustomSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/PolishTaxCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/CartProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/MainShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2176">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4372#4373#0" expanded="true" />
+            <element signature="e#4423#4424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/ZooApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Totolotek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/codingBatExercise/Array3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Homework/WheelAndCross.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day4/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/codingBatExercise/Array2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day15/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/InternetShop/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="107" selection-start-line="25" selection-start-column="107" selection-end-line="25" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekty.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ForsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day3/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OwnExerciseProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.commons:commons-lang3:3.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
